@@ -3,6 +3,10 @@
 Following Bruno Simon's tutorial on building a haunted house with gravestones and ghosts
 I practiced loading textures, lights, making objects, and adding shadows to the scene 
 
+It can be seen on: 
+
+or if you have a vercel account on: https://vercel.com/cynzapata/threejs-haunted-house
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
