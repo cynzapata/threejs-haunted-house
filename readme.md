@@ -1,7 +1,7 @@
 # Three.js Journey
 
-Following Bruno Simon's tutorial on building a haunted house with gravestones and ghosts
-I practiced loading textures, lights, making objects, and adding shadows to the scene 
+Following Bruno Simon's tutorial on building a haunted house with gravestones and ghosts.
+I practiced loading textures, lights, making objects, and adding shadows to the scene.
 
 It can be seen on: https://threejs-haunted-house-gamma.vercel.app/
 
