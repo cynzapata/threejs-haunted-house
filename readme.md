@@ -1,7 +1,6 @@
 # Three.js Journey
 
-Following Bruno Simon's tutorial on building a haunted house with gravestones and ghosts.
-I practiced loading textures, lights, making objects, and adding shadows to the scene.
+I utulized Three.js, Node.js, Vercel, Javascript, HTML, and CSS to follow Bruno Simon's tutorial on building a haunted house with gravestones and ghosts. I practiced loading textures, gui controls, lights, making objects, and adding shadows to the scene.
 
 It can be seen on: https://threejs-haunted-house-gamma.vercel.app/
 
